@@ -46,7 +46,7 @@ graph TD
 
 ## 📂 Ejemplo de Configuración
 ```bash
-URL="http://sailpoint-ui.bankinter.com/login"
+URL="http://sailpoint-ui.com/login"
 CHECK_INTERVAL=60
 RETRY_COUNT=3
 TIMEOUT=10
